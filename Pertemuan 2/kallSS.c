@@ -1,4 +1,4 @@
-/*Nama File : KalkulatorSS.c*/
+/*Nama File : kallSS.c*/
 /*Deskripsi : Menghitung dan menampilkan keluaran berupa operasi aritmatika sesuai pilihan*/
 /*Pembuat   : Tiara Putri Wibowo*/
 /*Tanggal   : Rabu, 01 Maret 2023, 10.50*/
