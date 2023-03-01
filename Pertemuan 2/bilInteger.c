@@ -1,4 +1,4 @@
-/*Nama File : CekBilangan.c*/
+/*Nama File : bilInteger.c*/
 /*Deskripsi : Mengecek dan menampilkan bilangan bulat positif atau nol atau bilabgan bulat negatif*/
 /*Pembuat   : Tiara Putri Wibowo*/
 /*Tanggal   : Rabu, 01 Maret 2023, 10.11*/
