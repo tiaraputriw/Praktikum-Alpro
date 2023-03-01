@@ -1,4 +1,4 @@
-/*Nama File : Segitiga.c*/
+/*Nama File : CekSegitiga.c*/
 /*Deskripsi : Mengecek apakah 3 inputan sisi termasuk segitiga sama kaki, sama sisi, atau sembarang*/
 /*Pembuat   : Tiara Putri Wibowo*/
 /*Tanggal   : Rabu, 01 Maret 2023, 10.40*/
