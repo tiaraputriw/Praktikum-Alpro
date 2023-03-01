@@ -1,4 +1,4 @@
-/*Nama File : CekNomorBulan.c*/
+/*Nama File : namaBulan.c*/
 /*Deskripsi : Mengecek dan menampilkan nama bulan berdasarkan input yang ada di layar*/
 /*Pembuat   : Tiara Putri Wibowo*/
 /*Tanggal   : Rabu, 01 Maret 2023, 10.22*/
