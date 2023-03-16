@@ -1,6 +1,6 @@
 /*Nama File : hitungTahanan.c*/
 /*Deskripsi : Mengecek dan menampilkan nilai kebenaran 3 input bilangan positif serta menghitung total tahanan*/
-/*Pembuat   : Tiara Putri Wibowo*/
+/*Pembuat   : Tiara Putri Wibowo - 24060122120026*/
 /*Tanggal   : Rabu, 01 Maret 2023, 10.30*/
 
 #include <stdio.h>
