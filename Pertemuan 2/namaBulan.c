@@ -1,6 +1,6 @@
 /*Nama File : namaBulan.c*/
 /*Deskripsi : Mengecek dan menampilkan nama bulan berdasarkan input yang ada di layar*/
-/*Pembuat   : Tiara Putri Wibowo*/
+/*Pembuat   : Tiara Putri Wibowo - 24060122120026*/
 /*Tanggal   : Rabu, 01 Maret 2023, 10.22*/
 
 #include <stdio.h>
