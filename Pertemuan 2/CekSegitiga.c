@@ -1,6 +1,6 @@
 /*Nama File : CekSegitiga.c*/
 /*Deskripsi : Mengecek apakah 3 inputan sisi termasuk segitiga sama kaki, sama sisi, atau sembarang*/
-/*Pembuat   : Tiara Putri Wibowo*/
+/*Pembuat   : Tiara Putri Wibowo - 24060122120026*/
 /*Tanggal   : Rabu, 01 Maret 2023, 10.40*/
 
 #include <stdio.h>
