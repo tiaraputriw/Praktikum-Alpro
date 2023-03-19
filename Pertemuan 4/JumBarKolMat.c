@@ -9,39 +9,27 @@
 int main ()
 {
     /*Kamus*/
-    int b ,k ,i, j, sb, sk;
-    int T[3][3];
+    int i, j, sb, sk;
+    int T[3][3] = {{1,3,5},{2,5,2},{4,2,4}};
 
     /*Algoritma*/
-    printf("Nilai Baris: ");
-    scanf("%d", &b);
-    printf("\nNilai Kolom: ");
-    scanf("%d", &k);
-
-    for (i = 0; i < b; i++){
-        for (j = 0; j < k; j++){
-            printf("Tabel %d x %d = ", i, j);
-            scanf("%d", &T[i][j]);
-        }
-    }
-
-    printf("\nTabelnya : ");
-    for (i = 0; i < b; i++){
-        for (j = 0; j < k; j++){
+    printf("Tabelnya : ");
+    for (i = 0; i < 3; i++){
+        for (j = 0; j < 3; j++){
             printf("%d", T[i][j]);
         }
     }
 
-    for (i = 0; i < b; i++){
+    for (i = 0; i < 3; i++){
         sb = 0;
-        for (j = 0; j < k; j++){
+        for (j = 0; j < 3; j++){
             sb += T[i][j];
             printf("\nJumlah Baris ke %d : %d\n", i+1 , sb);
         }
     }
-    for (i = 0; i < b; i++){
+    for (i = 0; i < 3; i++){
         sk = 0;
-        for (j = 0; j < k; j++){
+        for (j = 0; j < 3; j++){
             sk += T[j][i];
             printf("\nJumlah Kolom ke %d : %d\n", i+1 , sk);
         }
