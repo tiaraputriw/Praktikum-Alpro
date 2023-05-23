@@ -139,7 +139,7 @@ int main()
         BubbleSort(arr,s);
         break;
     case 'B':
-        printf("Sorting yang digunakan adalah Count Sort\n");
+        printf("Sorting yang digunakan adalah Counting Sort\n");
         CountingSort(arr,s);
         break;
     case 'C':
